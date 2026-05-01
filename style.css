@@ -110,3 +110,73 @@ h2{
     justify-content: center;
     display: flex
 }
+
+.image1{
+    
+    background-color: black;
+
+}
+
+.image2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+}
+
+.renard{
+    
+display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 100px;
+}
+
+.teemo{
+    background-color: black;
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+h3{
+    justify-content: center;
+    display: flex;
+    
+}
+.top p{
+    margin-top: 80px;
+}
+
+.jungle{
+     display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.temoin{
+    background-color: black;
+    
+
+}
+
+.temoin h4{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.temoin img{
+    width:60px;
+}
+
+.profil1{
+    justify-content: center;
+    display: flex;
+
+}
