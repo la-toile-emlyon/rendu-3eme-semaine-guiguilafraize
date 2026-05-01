@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    border: solid 1px rgb(10, 17, 219);
+}
+header{
+    background-image: url(./assets/motion-designer/premium_photo-1661885612035-58b85113fa89.avif);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.logo{
+    width:100px;
+    height:100px;
+    padding: 10px;
+    background-color: crimson;
+    border-radius: 100px;
+}
+
+nav{
+    justify-content: space-between;
+    
+     
+}
+
+nav ul{
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+     list-style-type: none;
+}
+.golrit a{
+    text-decoration: none;
+    
+}
+
+.navigation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 96px;
+
+}
+
+.simple{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 40px;
+
+}
+
+.folio{
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 200px;
+    font-size: 20px;
+    
+}
+
+.folio a{
+    padding: 20px;
+    background-color: aliceblue;
+    color: blue;
+    border-radius: 10px;
+    text-decoration: none;
+    gap: 300px;
+}
+
+.promesse{
+    background-image: url(./assets/motion-designer/19860.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.league{
+     display: flex;
+    justify-content: end;
+    gap: 10px;
+    flex-direction: column;
+    width: 70vh;
+    justify-content: space-evenly;
+}
+
+.ornn{
+        display: flex;
+    flex-direction: row;
+    
+    gap: 28px;
+    height: 49vh;
+}
+
+h2{
+    justify-content: center;
+    display: flex
+}
