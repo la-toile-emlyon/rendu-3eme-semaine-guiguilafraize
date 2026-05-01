@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     color: white;
-    border: solid 1px rgb(10, 17, 219);
+    
 }
 header{
     background-image: url(./assets/motion-designer/premium_photo-1661885612035-58b85113fa89.avif);
@@ -179,4 +179,14 @@ h3{
     justify-content: center;
     display: flex;
 
+}
+
+.fin{
+text-colo
+display: flex;
+margin: 30px;
+}
+
+.fin H5{
+    font-size: 20px;
 }
